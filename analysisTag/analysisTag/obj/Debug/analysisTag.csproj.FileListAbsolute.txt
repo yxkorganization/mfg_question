@@ -1,0 +1,9 @@
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\analysisTag.exe.config
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\analysisTag.exe
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\analysisTag.pdb
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\MongoDB.Bson.dll
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\MongoDB.Driver.dll
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\MongoDB.Bson.xml
+E:\vsdemo\analysisTag\analysisTag\bin\Debug\MongoDB.Driver.xml
+E:\vsdemo\analysisTag\analysisTag\obj\Debug\analysisTag.exe
+E:\vsdemo\analysisTag\analysisTag\obj\Debug\analysisTag.pdb
